@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @asthataparia
-- 👀 I’m working on Java
-- 🌱 I’m currently learning some cool languages
+
 
 
 <!---
